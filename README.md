@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
 | ------- |
