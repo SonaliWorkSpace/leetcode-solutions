@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0560-subarray-sum-equals-k](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2233-maximum-product-after-k-increments](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/2233-maximum-product-after-k-increments) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [2233-maximum-product-after-k-increments](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/2233-maximum-product-after-k-increments) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [2233-maximum-product-after-k-increments](https://github.com/SonaliWorkSpace/leetcode-solutions/tree/master/2233-maximum-product-after-k-increments) |
 <!---LeetCode Topics End-->
